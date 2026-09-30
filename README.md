@@ -1,4 +1,4 @@
-# formeituan-assissant
+# roommates-assissant
 ## 功能总览
 ### 1. 登录/注册系统
 - 手机号/邮箱 + 密码注册登录
